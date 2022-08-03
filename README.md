@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: my gmail is 'million200208@gmail.com' because i was born in August 2002, hhhhhhh
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=million-2002&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=million-2002&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=wkv&theme=prussian)](https://github.com/million-2002/wkv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=824_lab1&theme=prussian)](https://github.com/million-2002/824_lab1)
