@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=million-2002&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=Books_management&theme=prussian)](https://github.com/million-2002/Books_management)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=million-2002.github.io&theme=prussian)](https://github.com/million-2002/million-2002.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=wkv&theme=prussian)](https://github.com/million-2002/wkv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=824_lab1&theme=prussian)](https://github.com/million-2002/824_lab1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=Tutorials&theme=prussian)](https://github.com/million-2002/Tutorials)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=824_lab2&theme=prussian)](https://github.com/million-2002/824_lab2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=rb_tree&theme=prussian)](https://github.com/million-2002/rb_tree)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=my-diary&theme=prussian)](https://github.com/million-2002/my-diary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=my_rpc_demo&theme=prussian)](https://github.com/million-2002/my_rpc_demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=million-2002&repo=protobuf_demo&theme=prussian)](https://github.com/million-2002/protobuf_demo)
